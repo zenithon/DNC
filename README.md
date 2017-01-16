@@ -1,1 +1,23 @@
 # DNC
+
+Block puzzle experiments
+
+SHRDLU : 자연어에 의한 질의응답으로 블록쌓기 
+
+대화 예시
+
+Person: PICK UP A BIG RED BLOCK.
+
+Computer: OK. (does it)
+
+Person: GRASP THE PYRAMID.
+
+Computer: I DON'T UNDERSTAND WHICH PYRAMID YOU MEAN.
+
+Person: FIND A BLOCK WHICH IS TALLER THAN THE ONE YOU ARE HOLDING AND PUT IT INTO THE BOX.
+
+Computer: BY "IT", I ASSUME YOU MEAN THE BLOCK WHICH IS TALLER THAN THE ONE I AM HOLDING.
+
+Computer: OK. (does it)
+
+
